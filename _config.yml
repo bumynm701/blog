@@ -1,21 +1,16 @@
-title:            Tw93
-description:      "Hi，我是 Tw93，是一个前端工程师，会一点 Swift / Rust / Python，喜欢折腾各种新技术。"
+title:            Aha! Ideas
+description:      "Aha! Ideas 灵机一动 全干工程师一枚，会一点 Java / Python / JavaScript，喜欢倒腾软硬件"
 
-github: tw93
-zhihu: tw93
-twitter: HiTw93
-v2ex: tw93
+github: aha ideas
 
-url: https://tw93.fun
+url: https://ahaideas.top
 menu:
   - title: 'Categories'
     url: '/categories.html'
   - title: 'About'
     url: '/about'
-  - title: 'Weekly'
-    url: 'https://weekly.tw93.fun/'
   - title: 'Github'
-    url: 'https://github.com/tw93'
+    url: 'https://github.com/bumynm701'
   - title: 'RSS'
     url: '/feed.xml'
 
@@ -30,7 +25,7 @@ sass:
   style: compressed
 
 permalink:   /:year-:month-:day/:title.html
-assetUrl: //tw93.fun/images/
+assetUrl: //ahaideas.fun/images/
 defaultImage: data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==
 
 google_analytics: UA-57207999-1

@@ -8,6 +8,8 @@ hideHomeActive: true
 ## About Me
 
 - Have fun with coding
+- Have fun with life
+- Have fun with everything
 
 ## Follow Me
 
